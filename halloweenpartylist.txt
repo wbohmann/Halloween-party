@@ -12,3 +12,6 @@ Knife
 Scoop 
 Candle
 Bobbing for apples
+scarecrow
+tractor
+
